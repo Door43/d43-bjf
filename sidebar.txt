@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bjf:home|Door43 (bjf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bjf|d43-bjf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bjf/archive/master.zip|d43-bjf.zip]]
+
+**Recent Changes**
+{{changes>ns = bjf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bjf|Ethnologue data]]
+
